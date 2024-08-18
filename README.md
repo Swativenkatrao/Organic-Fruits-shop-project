@@ -8,3 +8,6 @@ My Fruit Shop is a static web page that allows users to browse different fruits 
 <br>
 🎨 Features:-
 Responsive Design: The page adapts to different screen sizes for optimal viewing on mobile and desktop devices.
+
+
+![Uploading image.png…]()
